@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Overlay UI
+  - VL Background
+  - Tracking Space
+  - Custom 1
+  - Custom 2
+  - Custom 3
+  - Custom 4
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: On Top
+    uniqueID: 572749685
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Behind
+    uniqueID: 3533131907
+    locked: 0
